@@ -18,7 +18,7 @@ The manual testing process covered multiple aspects of the Rokomari e-commerce w
 ### Test Case Writing
 - Developed comprehensive test cases covering website modules, including navigation, product information, and contact forms.
 ![image](https://github.com/user-attachments/assets/178e5533-20e1-4519-a6dc-264b40e21f5d)
-** Test Case :** [Click Here](https://docs.google.com/spreadsheets/d/1_UBg6CsbUuQNOjS3twNAcAS78zHlCy_A/edit?gid=414538291#gid=414538291)
+**Test Case :** [Click Here](https://docs.google.com/spreadsheets/d/1_UBg6CsbUuQNOjS3twNAcAS78zHlCy_A/edit?gid=414538291#gid=414538291)
 
 ### Test Plan Creation
 - Structured test plan defining:
@@ -29,7 +29,7 @@ The manual testing process covered multiple aspects of the Rokomari e-commerce w
   - Feature not included in testing
   - Test environment
   - Testing schedule
-**Test Plan:** [Click Here](https://drive.google.com/file/d/1vCZgWWMaoXE9vSKLE6DX9Ih0AP0qy2TX/view?usp=sharing)
+ **Test Plan:** [Click Here](https://drive.google.com/file/d/1vCZgWWMaoXE9vSKLE6DX9Ih0AP0qy2TX/view?usp=sharing)
 
 ### Mindmap
 - Designed a mind map to visualize
@@ -42,7 +42,7 @@ The manual testing process covered multiple aspects of the Rokomari e-commerce w
 - Tracked and analyzed test execution progress, including:
   - Test coverage
   - Defect reporting and resolution rates
- ![image](https://github.com/user-attachments/assets/fd0a0e2f-6ade-465e-939c-c7222a888547)
+![image](https://github.com/user-attachments/assets/fd0a0e2f-6ade-465e-939c-c7222a888547)
 
 ### Test Scenarios
 - Defined multiple test scenarios to validate:
@@ -50,6 +50,7 @@ The manual testing process covered multiple aspects of the Rokomari e-commerce w
   - Edge cases
   - UI responsiveness
   - Negative test cases
+
 ![image](https://github.com/user-attachments/assets/5983c459-c940-4308-a247-140593eb416f)
 **Test Scenarios:** [Click Here](https://docs.google.com/spreadsheets/d/1_UBg6CsbUuQNOjS3twNAcAS78zHlCy_A/edit?gid=1886233841#gid=1886233841)
 

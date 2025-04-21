@@ -29,12 +29,14 @@ The manual testing process covered multiple aspects of the Rokomari e-commerce w
   - Feature not included in testing
   - Test environment
   - Testing schedule
- **Test Plan:** [Click Here](https://drive.google.com/file/d/1vCZgWWMaoXE9vSKLE6DX9Ih0AP0qy2TX/view?usp=sharing)
+
+**Test Plan:** [Click Here](https://drive.google.com/file/d/1vCZgWWMaoXE9vSKLE6DX9Ih0AP0qy2TX/view?usp=sharing)
 
 ### Mindmap
 - Designed a mind map to visualize
   - Test strategy
   - Feature coverage
+
 ![image](https://github.com/user-attachments/assets/7b121be5-07bf-4da7-96cc-eecc69d47ffb)
 
 
@@ -42,6 +44,7 @@ The manual testing process covered multiple aspects of the Rokomari e-commerce w
 - Tracked and analyzed test execution progress, including:
   - Test coverage
   - Defect reporting and resolution rates
+
 ![image](https://github.com/user-attachments/assets/fd0a0e2f-6ade-465e-939c-c7222a888547)
 
 ### Test Scenarios
@@ -59,6 +62,7 @@ The manual testing process covered multiple aspects of the Rokomari e-commerce w
   - Severity and priority levels
   - Steps to reproduce
   - Screenshots and expected vs. actual results
+
 ![image](https://github.com/user-attachments/assets/b431806a-5fb8-4141-9892-502c71b8887c)
 
 
